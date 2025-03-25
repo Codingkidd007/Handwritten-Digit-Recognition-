@@ -1,5 +1,3 @@
-Here's a **GitHub README.md** description for your **Handwritten Digit Recognition (MNIST) using SVM** project. 🚀  
-
 ---
 
 ## **🖊 Handwritten Digit Recognition (MNIST) using SVM**  
@@ -94,4 +92,3 @@ This project is open-source under the **MIT License**.
 
 ---
 
-Would you like to add **badges, GIFs, or deployment instructions**? 🚀
